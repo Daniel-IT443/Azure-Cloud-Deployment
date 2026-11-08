@@ -23,6 +23,7 @@ I decided to integrate my personal website/portfolio with a CI/CD pipeline throu
 6. Azure App Service hosts the updated application.
 
 ##CI/CD Implementation
+
 The pipeline automates:
 - Repository checkout
 - Dependency restoration
