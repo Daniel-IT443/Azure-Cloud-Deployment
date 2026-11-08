@@ -14,7 +14,7 @@ I decided to integrate my personal website/portfolio with a CI/CD pipeline throu
 - ASP.NET MVC
 - CI/CD
 
-## Deployment Process --------------------------------------------------------------
+## Deployment Process ------------------------------------------------------------
 1. Push code to GitHub.
 2. GitHub Actions detects the push.
 3. Application dependencies are restored.
@@ -22,7 +22,7 @@ I decided to integrate my personal website/portfolio with a CI/CD pipeline throu
 5. GitHub Actions deploys the application to Azure.
 6. Azure App Service hosts the updated application.
 
-## CI/CD Implementation -------------------------------------------------------------
+## CI/CD Implementation -----------------------------------------------------------
 
 The pipeline automates:
 - Download source code to GitHub Actions
@@ -30,7 +30,7 @@ The pipeline automates:
 - Application build
 - Azure deployment
 
-## Github Actions Workflow -----------------------------------------------------------
+## Github Actions Workflow ---------------------------------------------------------
 
 The automated deployment workflow code is defined in:
 [View Azure Deployment Workflow](.github/workflows/azure-deploy.yml)
