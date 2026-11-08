@@ -26,10 +26,9 @@ I decided to integrate my personal website/portfolio with a CI/CD pipeline throu
 ##CI/CD Implementation
 
 The pipeline automates:
-- Repository checkout
-- Dependency restoration
+- Download source code to GitHub Actions
+- Download the NuGet packages and libraries
 - Application build
-- Application publishing
 - Azure deployment
 
 ##Github Actions Workflow
