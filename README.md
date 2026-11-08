@@ -1,9 +1,8 @@
 # Azure-Cloud-Deployment
-Deployed a web application to Microsoft Azure using App Service. Configured and implemented CI/CD pipeline using GitHub Actions for automated deployments.
 
 ##Project Overview 
 
-I decided to integrate my personal website/portfolio with a CI/CD pipeline through Github Actions and Azure Deployment Center in order to expedite my workflow. Having the ability to commit changes immediately to my web application with a simple git push is seamless and provides useful documentation for every build and deployment.
+I decided to integrate my personal website/portfolio with a CI/CD pipeline through Github Actions and Azure Deployment Center in order to expedite my workflow. Having the ability to commit changes immediately to my web application with a simple git push is seamless and provides useful documentation for every build and deployment. This integration felt especially useful as it was also a solid introduction to using GitHub and becoming familiar with navigating some of the features Azure has to offer. 
 
 ##Technology Used
  Microsoft Azure
