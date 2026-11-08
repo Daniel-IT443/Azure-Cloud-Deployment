@@ -33,4 +33,4 @@ The pipeline automates:
 ## Github Actions Workflow ---------------------------------------------------------
 
 The automated deployment workflow code is defined in:
-[View Azure Deployment Workflow](.github/workflows/azure-deploy.yml)
+[View Azure Deployment Workflow](documentation/azure-deploy.yml)
